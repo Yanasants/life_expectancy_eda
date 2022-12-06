@@ -22,7 +22,7 @@ Observations:
 <h3 align="center">Population Difference Between 2000 and 2015</h3>
 
 <p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/59098432/205981792-1324ce04-db11-455c-aaa6-ba0ccdf07344.png">
+  <img width="1000" height="400" src="https://user-images.githubusercontent.com/59098432/205985890-910927a2-127c-4d19-a5ce-ab29be838ff1.png">
 </p>
 
 Observations: 

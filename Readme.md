@@ -19,3 +19,14 @@ Observations:
 - The difference between China and India population decreased in the period;
 - Countries on top 10 are the same on both periods.
 
+<h3 align="center">Population Difference Between 2000 and 2015</h3>
+
+<p align="center">
+  <img width="1000" height="400" src="https://user-images.githubusercontent.com/59098432/205981792-1324ce04-db11-455c-aaa6-ba0ccdf07344.png">
+</p>
+
+Observations: 
+
+- India was the country with largest population diffence in and out of top 10 most populous contries;
+- Only Ethiopia and Congo Democratic Republic are part of top 10 countries with most population difference and are not between the most populous ones.
+- Mexico and Russian Federation are between top 10 most populous contries but are not between the ones with most population difference. 

@@ -28,5 +28,5 @@ Observations:
 Observations: 
 
 - India was the country with largest population diffence in and out of top 10 most populous contries;
-- Only Ethiopia and Congo Democratic Republic are part of top 10 countries with most population difference and are not between the most populous ones.
+- Only Ethiopia and Congo Democratic Republic are part of top 10 countries with most population difference and are not between the most populous ones;
 - Mexico and Russian Federation are between top 10 most populous contries but are not between the ones with most population difference. 

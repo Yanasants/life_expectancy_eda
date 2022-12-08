@@ -2,7 +2,7 @@
 
 > ⏳ Project in process
 
-> Libraries: Pandas, Matplotlib, Seaborn and Plotly.
+> Libraries: Pandas, Matplotlib, Seaborn, Plotly and Streamlit.
 
 > Collaborators: Gustavo Henrique, Paulo Sérgio and Yana Santos.
 
@@ -18,25 +18,26 @@ _Note: the merge is available on Kaggle, the exploratory data analysts team did 
 
 <h2 align="center">Analysis by Yana</h2>
 
-<h3 align="center">10 Most Populous Countries in 2000 and 2015</h3>
+<h3 align="center">Streamlit Dashboard</h3>
 
 <p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/59098432/205807181-9e03ac91-fd98-4dfb-bb60-ddd8c2e03dd4.png">
+  <img width="1000" height="450" src="https://user-images.githubusercontent.com/59098432/206522335-123f08dc-3a0f-4722-9a6c-c9339f5c9e8d.png">
 </p>
 
 Observations: 
 
-- The difference between China and India population decreased in the period;
+- Global Life Expectancy increased in the observed period, but the biggest part of Africa still presents a life expectancy under 60 years old, a worrying scenario that shows inequality of life quality between the continents that have not really changed since 2000;
+- Only Europe and Oceania presented increasement on their forest area.
+
+<p align="center">
+  <img width="1000" height="450" src="https://user-images.githubusercontent.com/59098432/206523304-25b47683-7ff9-4a1c-81e1-f47ec6eb646d.png">
+</p>
+
+Observations: 
+
 - Countries on top 10 are the same on both periods.
-
-<h3 align="center">Population Difference Between 2000 and 2015</h3>
-
-<p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/59098432/205985890-910927a2-127c-4d19-a5ce-ab29be838ff1.png">
-</p>
-
-Observations: 
-
-- India was the country with largest population diffence in and out of top 10 most populous contries;
+- Until 2015, China was the most populous country, but India population has been increasing significantly through the years, factor already observed by the scientists. According to the United Nations Department of Economic and Social Affairs, Population Division, India will surpass China as the world’s most populous country next year (2023);
 - Only Ethiopia and Congo Democratic Republic are part of top 10 countries with most population difference and are not between the most populous ones;
 - Mexico and Russian Federation are between top 10 most populous contries but are not between the ones with most population difference. 
+
+

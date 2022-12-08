@@ -12,6 +12,10 @@
   <img width="1000" height="225" src="https://user-images.githubusercontent.com/59098432/206520587-4862721d-e557-49ff-b5d7-ed52546f446f.png">
 </p>
 
+Life Expectancy 2000-2015, available [here](https://www.kaggle.com/datasets/vrec99/life-expectancy-2000-2015).
+The dataset was buit merging different sources, in order to join revelant features to data analysis. 
+_Note: the merge is available on Kaggle, the exploratory data analysts team did not realized this process._
+
 <h2 align="center">Analysis by Yana</h2>
 
 <h3 align="center">10 Most Populous Countries in 2000 and 2015</h3>

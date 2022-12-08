@@ -4,7 +4,13 @@
 
 > Libraries: Pandas, Matplotlib, Seaborn and Plotly.
 
-> Collaborators: Gustavo Henrique, Lucas Andrade, Paulo Sérgio and Yana Santos.
+> Collaborators: Gustavo Henrique, Paulo Sérgio and Yana Santos.
+
+<h2 align="center">Dataset</h2>
+
+<p align="center">
+  <img width="1000" height="225" src="https://user-images.githubusercontent.com/59098432/206520587-4862721d-e557-49ff-b5d7-ed52546f446f.png">
+</p>
 
 <h2 align="center">Analysis by Yana</h2>
 

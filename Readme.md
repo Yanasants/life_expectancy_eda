@@ -21,7 +21,7 @@ _Note: the merge is available on Kaggle, the exploratory data analysts team did 
 <h3 align="center">Streamlit Dashboard</h3>
 
 <p align="center">
-  <img width="1000" height="450" src="https://user-images.githubusercontent.com/59098432/206522335-123f08dc-3a0f-4722-9a6c-c9339f5c9e8d.png">
+  <img width="1000" height="425" src="https://user-images.githubusercontent.com/59098432/206522335-123f08dc-3a0f-4722-9a6c-c9339f5c9e8d.png">
 </p>
 
 Observations: 
@@ -30,7 +30,7 @@ Observations:
 - Only Europe and Oceania presented increasement on their forest area.
 
 <p align="center">
-  <img width="1000" height="450" src="https://user-images.githubusercontent.com/59098432/206523304-25b47683-7ff9-4a1c-81e1-f47ec6eb646d.png">
+  <img width="1000" height="425" src="https://user-images.githubusercontent.com/59098432/206523304-25b47683-7ff9-4a1c-81e1-f47ec6eb646d.png">
 </p>
 
 Observations: 
